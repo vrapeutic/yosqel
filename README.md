@@ -48,7 +48,7 @@ All modules are tailored for inclusivity, and cultural relevance.
 
 For collaboration, deployment, or research inquiries, reach out to:  
 📧 **info@vrapeutic.com**  
-🌐 [vrapeutic.com](https://www.vrapeutic.com)
+🌐 [myvrapeutic.com](https://www.myvrapeutic.com)
 
 ---
 
