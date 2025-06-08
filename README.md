@@ -38,7 +38,7 @@ All modules are tailored for inclusivity, and cultural relevance.
 ## 🚀 12-Month Milestones (2025-2026)
 
 - ✅ Q1: Partner with pilot sites in Egypt and East Africa
-- ✅ Q2: Develop first STEM lab modules and AI tutor integration
+- 🔄 Q2: Develop first STEM lab modules and AI tutor integration
 - 🔄 Q3: Pilot with 100+ girls and 20+ women educators
 - 🔄 Q4: Expand to 3–5 new sites and launch analytics dashboard
 
