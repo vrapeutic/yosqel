@@ -7,7 +7,7 @@
     "description": "VRapeutic is a deep-tech company specializing in immersive therapy and education for underserved populations. With a track record in VR-powered rehabilitation and digital health, VRapeutic is now expanding into AI-powered inclusive virtual STEM education.",
     "email": "info@vrapeutic.com",
     "webpageUrl": {
-      "url": "http://myvrapeutic.com/"
+      "url": "https://github.com/vrapeutic/"
     }
   },
   "projects": [
@@ -16,10 +16,10 @@
       "name": "Yosqel--Generative AI-Powered Virtual School Labs for Girls & Women Educators",
       "description": "A scalable, headset-agnostic platform delivering immersive STEM lab experiences to underserved African communities. It integrates VR, LLMs, and LMMs to support both learners and educators.",
       "webpageUrl": {
-        "url": "http://myvrapeutic.com/"  
+        "url": "https://github.com/vrapeutic/"  
       },
       "repositoryUrl": {
-        "url": "https://github.com/vrapeutic/" 
+        "url": "https://github.com/vrapeutic/yosqel/" 
       },
       "licenses": [
         "spdx:MIT"
