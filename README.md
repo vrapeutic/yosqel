@@ -16,11 +16,12 @@ Yosqel provides:
 
 - 🧪 **Immersive virtual school labs** in physics, chemistry, and biology
 - 🤖 **Intelligent virtual tutors** powered by Vision-Language Models (VLMs)
+- 🧩 **Dynamic asset rendering** using vision-language models to generate and adapt 3D lab elements in real time based on learner interactions
 - 🧠 **Real-time interaction understanding** via Vision-Language Models (VLMs)
 - 🌐 **Multilingual, headset-agnostic access** for mobile VR and desktop
 - 📊 **Performance dashboards** for learners and educators
 
-All modules are tailored for inclusivity, cultural relevance, and offline-friendly deployment options.
+All modules are tailored for inclusivity, and cultural relevance.
 
 ---
 
