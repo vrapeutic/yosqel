@@ -1,0 +1,84 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "VRapeutic Inc.",
+    "description": "VRapeutic is a deep-tech company specializing in immersive therapy and education for underserved populations. With a track record in VR-powered rehabilitation and digital health, VRapeutic is now expanding into AI-powered inclusive virtual STEM education.",
+    "email": "info@vrapeutic.com",
+    "webpageUrl": {
+      "url": "http://myvrapeutic.com/"
+    }
+  },
+  "projects": [
+    {
+      "guid": "vr-labs-africa",
+      "name": "Yosqel--Generative AI-Powered Virtual School Labs for Girls & Women Educators",
+      "description": "A scalable, headset-agnostic platform delivering immersive STEM lab experiences to underserved African communities. It integrates VR, LLMs, and LMMs to support both learners and educators.",
+      "webpageUrl": {
+        "url": "http://myvrapeutic.com/"  
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/vrapeutic/" 
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "education",
+        "vr",
+        "stem",
+        "girls",
+        "africa",
+        "llm",
+        "accessibility",
+        "immersion",
+        "open-source",
+        "teacher-training"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "canada-bank-transfer",
+        "type": "bank",
+        "description": "VRapeutic's organizational bank account in Canada for grant disbursement.",
+        "address": "Royal Bank of Canada, 90 SPARKS ST, OTTAWA, ON K1P 5B4" 
+      }
+    ],
+    "plans": [
+      {
+        "guid": "one-time-grant",
+        "status": "active",
+        "name": "One-Time Grant Support",
+        "amount": 100000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "canada-bank-transfer"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2020,
+        "currency": "USD",
+        "income": 100000,
+        "description": "Grant from UNICEF Venture Fund for immersive therapy platform."
+      },
+      {
+        "year": 2021,
+        "currency": "CAD",
+        "income": 50000,
+        "description": "Grant from Ontario Brain Institute for AI-based rehabilitation research."
+      },
+      {
+        "year": 2020,
+        "currency": "CAD",
+        "income": 50000,
+        "description": "University of Ottawa innovation seed grant for VR-based therapy."
+      }
+    ]
+  }
+}
