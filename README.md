@@ -15,8 +15,8 @@ In many parts of Africa, girls and women face systemic barriers to accessing qua
 Yosqel provides:
 
 - 🧪 **Immersive virtual school labs** in physics, chemistry, and biology
-- 🤖 **Intelligent virtual tutors** powered by Large Language Models (LLMs)
-- 🧠 **Real-time interaction understanding** via Large Multimodal Models (LMMs)
+- 🤖 **Intelligent virtual tutors** powered by Vision-Language Models (VLMs)
+- 🧠 **Real-time interaction understanding** via Vision-Language Models (VLMs)
 - 🌐 **Multilingual, headset-agnostic access** for mobile VR and desktop
 - 📊 **Performance dashboards** for learners and educators
 
@@ -27,7 +27,7 @@ All modules are tailored for inclusivity, cultural relevance, and offline-friend
 ## 🛠 Technology Stack
 
 - **Unity 3D** for VR environment development
-- **Python + OpenAI API** for LLM-based tutoring
+- **Llama + Deepseek API** for LLM-based tutoring
 - **Three.js/WebXR** for lightweight web delivery
 - **Firebase / Supabase** for backend and analytics
 - **SPDX: MIT License**
